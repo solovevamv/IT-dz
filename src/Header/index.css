@@ -1,0 +1,17 @@
+.Header {
+    width: 100%;
+    border-bottom: 3px solid black;
+    font-size: 36px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Header-Home {
+    text-decoration: none;
+}
+
+.Header-HomeButton {
+    width: 10vw;
+}

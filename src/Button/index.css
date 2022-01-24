@@ -1,0 +1,38 @@
+.Button {
+    border-radius: 10px;
+    height: 40px;
+    border: 0;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.Button:last-child {
+    margin-right: 0;
+}
+
+.Button_type_action {
+    background-color: #ffcc00;
+}
+
+.Button_type_action:hover {
+    background-color: #f2c200;
+}
+
+.Button_type_action:active {
+    background-color: #d9ad00;
+}
+
+.Button_type_default {
+    background-color: #eeeef2;
+}
+
+.Button_type_default:hover {
+    background-color: #d9d9de;
+}
+
+.Button_type_default:active {
+    background-color: #ccccd0;
+}

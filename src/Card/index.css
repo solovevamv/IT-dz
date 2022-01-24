@@ -1,0 +1,13 @@
+.Card {
+    border: 3px solid black;
+    border-radius: 28px;
+    padding: 28px;
+    width: 35vw;
+}
+
+.Card-Title {
+    border-bottom: 3px solid black;
+    padding-bottom: 15px;
+    font-size: 32px;
+    text-align: center;
+}
